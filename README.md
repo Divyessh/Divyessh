@@ -3,10 +3,10 @@
 Divyessh Maheshwari<br>
 Full Stack Web Developer | Artificial Intelligence & Machine Learning Enthusiast | Cloud Computing Enthusiast
 
-- 🔭 I like working in Full Stack Web Development ( Primary BE ), Data Science and ML, and Server-less Architecture.
+- 🔭 I enjoy working with Full Stack Web Development, Artificial Intelligence Solutions, and Cloud Architecture.
 - 🙂️ I'm skilled in Python, JavaScript and GoLang programming languages.
 - 🎀️ I'm also familiar and skilled in working on Amazon Web Services and Google Cloud Platform.
-- 🌱 I'm currently learning more about Cloud Architecture.
+- 🌱 I'm currently learning more about Mobile Development.
 
 <div align="center" cellpadding=1>
   
