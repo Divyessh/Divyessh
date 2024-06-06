@@ -3,7 +3,7 @@
 Divyessh Maheshwari<br>
 Full Stack Web Developer | Solution Architect | Deep Learning Engineer
 
-- 🔭 I enjoy working on projects in real-time data streaming and processing pipelines, full stack develpoment and deep leanring neaural network designs.
+- 🔭 I enjoy working on projects in real-time data streaming and processing pipelines, full stack develpoment and deep leanring neural network designs.
 - 🙂️ I'm skilled in Python, JavaScript/TypeScript, GoLang and Java programming languages.
 - 🎀️ I'm AWS Certified SA and proficient with Google Cloud Platform and Azure.
 - 🌱 I'm currently learning more about Rust and Julia for designing low level, parallel and high performance computing systems.
